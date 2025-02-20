@@ -1,7 +1,3 @@
-
--- local HWIDTable = loadstring(game:HttpGet("https://raw.githubusercontent.com/CrismonPetrasion/HWID/main/Checker.lua"))()
-local HWID = game:GetService("RbxAnalyticsService"):GetClientId()
- 
 --// Services
  
 local RunService = game:GetService("RunService")
